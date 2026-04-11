@@ -5,7 +5,7 @@
   "version": "1.0.1",
   "description": "A catppuccin-like theme with more than 10 styles.",
   "category": "theme",
-  "url": "https://github.com/Olivier-D-Pelican-Plugins/Catppuccin-Theme",
+  "url": "https://github.com/pelican-plugins-community/Catppuccin-Theme",
   "namespace": "Olivier\\CatppuccinTheme",
   "class": "CatppuccinThemePlugin"
 }
